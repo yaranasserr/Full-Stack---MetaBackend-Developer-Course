@@ -17,3 +17,4 @@ Create new bookings and refresh current bookings
 Refresh bookings for a date when the date is changed
 
 Dynamically process available time slots
+<img width="914" alt="3" src="https://user-images.githubusercontent.com/72654303/230906974-61a9a831-0a21-4847-af93-fe3554b7fa9b.png">
