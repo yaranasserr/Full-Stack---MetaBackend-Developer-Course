@@ -1,7 +1,7 @@
 # Full-Stack---MetaBackend-Developer-Course
 Full Stack restaurant web application by Django, MYSQL, JavaScript , HTML , CSS 
 
-Objectives
+
 Create new MySQL database credentials
 
 Update the project settings in Django to enable connection with MySQL 
